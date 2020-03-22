@@ -8,5 +8,5 @@
 希望有相关兴趣的朋友们一起交流讨论！
 
 ## 最新消息
-###星火计划
+### 星火计划
 星火计划中期审查 [Slides](https://cloud.tsinghua.edu.cn/d/c2fa2681d2af406a8c31/)
