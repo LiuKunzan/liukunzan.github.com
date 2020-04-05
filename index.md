@@ -10,3 +10,7 @@
 ## 最新消息
 ### 星火计划
 星火计划中期审查 [Slides](https://cloud.tsinghua.edu.cn/d/c2fa2681d2af406a8c31/)
+
+### 学术参与
+
+电子系微信公众号“无限之声”发布本科生科研报道 [Web](https://mp.weixin.qq.com/s/iRsjnLhJ08xIfpdMc94yCw)
