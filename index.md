@@ -15,4 +15,5 @@
 
 电子系微信公众号“无限之声”发布本科生科研报道 [Web](https://mp.weixin.qq.com/s/iRsjnLhJ08xIfpdMc94yCw)
 
-$\color{red}{NEW!!!}$2020年科展 [Slides](https://cloud.tsinghua.edu.cn/d/0a6444bf0bef44f99520/)
+<font color=#DC143C size=5>NEW!</font> 2020年科展 [Slides](https://cloud.tsinghua.edu.cn/d/0a6444bf0bef44f99520/)
+
