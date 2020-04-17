@@ -13,7 +13,7 @@
 
 ### 启航计划
 
-启航计划中期审查 [Slides](https://cloud.tsinghua.edu.cn/f/6970ae7b162043018209/)
+启航计划中期审查 [Slides](https://cloud.tsinghua.edu.cn/f/6970ae7b162043018209/?dl=1)
 
 ### 学术参与
 
