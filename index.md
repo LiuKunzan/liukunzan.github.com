@@ -19,4 +19,4 @@
 
 电子系微信公众号“无限之声”发布本科生科研报道 [Web](https://mp.weixin.qq.com/s/iRsjnLhJ08xIfpdMc94yCw)
 
-2020年科展 [Slides](https://cloud.tsinghua.edu.cn/f/8a1ea47fccf840e1b24d/?dl=1)
+2020年科展 [Slides](https://cloud.tsinghua.edu.cn/f/8a1ea47fccf840e1b24d/?dl=1) [Web](http://thu.tiaozhanbei.net/d1713/kezhan/projects/40/)
