@@ -15,6 +15,8 @@
 
 启航计划中期审查 [Slides](https://cloud.tsinghua.edu.cn/f/6970ae7b162043018209/?dl=1)
 
+启航计划结题（2020科创年会） [Slides](https://cloud.tsinghua.edu.cn/f/dbaea6307a8546c58ccd/?dl=1)
+
 ### 学术参与
 
 电子系微信公众号“无限之声”发布本科生科研报道 [Web](https://mp.weixin.qq.com/s/iRsjnLhJ08xIfpdMc94yCw)
