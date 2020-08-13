@@ -10,11 +10,13 @@
 ### 星火计划
 星火计划中期审查 [Slides](https://cloud.tsinghua.edu.cn/f/1218939ef9a04d418008/?dl=1)
 
+星火计划结题答辩 [Slides](https://cloud.tsinghua.edu.cn/f/acfeba6f1dbf40cf9708/?dl=1)
+
 ### 启航计划
 
 启航计划中期审查 [Slides](https://cloud.tsinghua.edu.cn/f/6970ae7b162043018209/?dl=1)
 
-启航计划结题（2020科创年会） [Slides](https://cloud.tsinghua.edu.cn/f/dbaea6307a8546c58ccd/?dl=1)
+启航计划结题答辩（2020科创年会） [Slides](https://cloud.tsinghua.edu.cn/f/dbaea6307a8546c58ccd/?dl=1)
 
 ### 学术参与
 
