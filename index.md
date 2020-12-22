@@ -16,7 +16,7 @@ SparkDay展示 [Slides](https://cloud.tsinghua.edu.cn/f/14f1d79b13394a5d82b7/?dl
 
 ### 启航计划
 
-启航计划中期审查 [Slides](https://cloud.tsinghua.edu.cn/f/6970ae7b162043018209/?dl=1)
+启航计划中期审查 [Slides](/file/test.pdf)
 
 启航计划结题答辩（2020科创年会） [Slides](https://cloud.tsinghua.edu.cn/f/dbaea6307a8546c58ccd/?dl=1)
 
