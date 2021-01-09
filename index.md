@@ -8,7 +8,7 @@
 
 ## 论文
 
-**K. Liu**, Y. Jiao, Y. Jin, X. Xiang and Y. Gu, "Dimensionality-Reduced Secure Outlier Detection on Union of Subspaces", *IEEE International Conference on Cryptography, Security and Privacy (ICCSP)*, Zhuhai, China, Jan. 2021. [[Paper]](/file/ICCSP_DrSOD.pdf) [Codes] [Slides]
+**K. Liu**, Y. Jiao, Y. Jin, X. Xiang and Y. Gu, "Dimensionality-Reduced Secure Outlier Detection on Union of Subspaces", *IEEE International Conference on Cryptography, Security and Privacy (ICCSP)*, Zhuhai, China, Jan. 2021. [[Paper]](/file/ICCSP/ICCSP_DrSOD.pdf) [Codes] [[Slides]](/file/ICCSP/DrSOD.pdf)
 
 ## 最新消息
 2020年12月 学术推进计划优秀口头报告 [[Slides]](/file/RIS_202012.pdf)
