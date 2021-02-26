@@ -8,9 +8,11 @@
 
 ## 论文
 
-**K. Liu**, Y. Jiao, Y. Jin, X. Xiang, and Y. Gu, "Dimensionality-Reduced Secure Outlier Detection on Union of Subspaces", in *Proc. IEEE International Conference on Cryptography, Security and Privacy (IEEE CSP'21)*, Zhuhai, China, Jan. 2021. [[Paper]](/file/ICCSP/rp020_P014.pdf) [[Slides]](/file/ICCSP/DrSOD.pdf) [[Data]](/file/ICCSP/YaleOutliers3class.mat) [Codes]
+**K. Liu**, Y. Jiao, Y. Jin, X. Xiang, and Y. Gu, "Dimensionality-Reduced Secure Outlier Detection on Union of Subspaces", in *Proc. IEEE International Conference on Cryptography, Security and Privacy (IEEE CSP'21)*, Zhuhai, China, Jan. 2021.
+[[IEEE]](https://ieeexplore.ieee.org/document/9357502) [[Paper]](/file/ICCSP/rp020_P014.pdf) [[Slides]](/file/ICCSP/DrSOD.pdf) [[Data]](/file/ICCSP/YaleOutliers3class.mat) [Codes]
 
-**K. Liu** and Z. Zhang, "On The Energy-Efficiency Fairness of Reconfigurable Intelligent Surface-Aided Cell-Free Network", in *Proc. IEEE 93rd Veh. Technol. Conf. (IEEE VTC'21 Spring)*, Helsinki, Finland, Apr. 2021. [[Paper]](/file/VTC/VTC_EEFairness.pdf) [Slides] [Codes]
+**K. Liu** and Z. Zhang, "On The Energy-Efficiency Fairness of Reconfigurable Intelligent Surface-Aided Cell-Free Network", in *Proc. IEEE 93rd Veh. Technol. Conf. (IEEE VTC'21 Spring)*, Helsinki, Finland, Apr. 2021.
+[IEEE] [[Paper]](/file/VTC/VTC_EEFairness.pdf) [Slides] [Codes]
 
 ## 最新消息
 2020年12月 学术推进计划优秀口头报告 [[Slides]](/file/RIS_202012.pdf)
