@@ -1,6 +1,9 @@
 ## 欢迎来到我的个人主页
 在这里，我将会更新我的最新动态，
 通过<lkz18@mails.tsinghua.edu.cn>联系我吧！
+
+[Google Scholar](https://scholar.google.com/citations?user=wzifqNkAAAAJ&hl=en&oi=ao)
+
 ## 个人信息
 刘坤瓒，清华大学电子工程系本科在读，专业为电子信息科学与技术，辅修生物医学工程。
 ## 研究方向
