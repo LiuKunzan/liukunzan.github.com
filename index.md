@@ -17,6 +17,10 @@
 **K. Liu** and Z. Zhang, "On The Energy-Efficiency Fairness of Reconfigurable Intelligent Surface-Aided Cell-Free Network", in *Proc. IEEE 93rd Veh. Technol. Conf. (IEEE VTC'21 Spring)*, Helsinki, Finland, Apr. 2021.
 [IEEE] [[Paper]](/file/VTC/VTC_EEFairness.pdf) [Slides] [Codes]
 
+## 专利
+
+"Communication Enhancement via User-Centric RIS", filed.
+
 ## 最新消息
 2020年12月 学术推进计划优秀口头报告 [[Slides]](/file/RIS_202012.pdf)
 
