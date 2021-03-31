@@ -9,13 +9,13 @@
 ## 研究方向
 目前正在参与的研究方向为基于可重构智能表面的现代通信系统，曾涉猎研究方向包括子空间学习以及降维理论，希望有相关兴趣的朋友们一起交流讨论！
 
-## 论文
+## Publications
 
 **K. Liu**, Y. Jiao, Y. Jin, X. Xiang, and Y. Gu, "Dimensionality-Reduced Secure Outlier Detection on Union of Subspaces", in *Proc. IEEE International Conference on Cryptography, Security and Privacy (IEEE CSP'21)*, Zhuhai, China, Jan. 2021. [[IEEE]](https://ieeexplore.ieee.org/document/9357502) [[Paper]](/file/ICCSP/rp020_P014.pdf) [[Slides]](/file/ICCSP/DrSOD.pdf) [[Data]](/file/ICCSP/YaleOutliers3class.mat) [Codes]
 
-**K. Liu** and Z. Zhang, "On The Energy-Efficiency Fairness of Reconfigurable Intelligent Surface-Aided Cell-Free Network", in *Proc. IEEE 93rd Veh. Technol. Conf. (IEEE VTC'21 Spring)*, Helsinki, Finland, Apr. 2021. [IEEE] [[Paper]](/file/VTC/VTC_EEFairness.pdf) [Slides] [Codes]
+**K. Liu** and Z. Zhang, "On The Energy-Efficiency Fairness of Reconfigurable Intelligent Surface-Aided Cell-Free Network", in *Proc. IEEE 93rd Veh. Technol. Conf. (IEEE VTC'21 Spring)*, Helsinki, Finland, Apr. 2021. [IEEE] [[Paper]](/file/VTC/VTC_EEFairness.pdf) [[Slides]](/file/VTC/VTC_presentation.pdf) [Codes]
 
-## 专利
+## Patents
 
 "Communication Enhancement via User-Centric RIS", filed.
 
