@@ -6,8 +6,10 @@
 
 ## 个人信息
 刘坤瓒，清华大学电子工程系本科在读，专业为电子信息科学与技术，辅修生物医学工程。
-## 研究方向
-目前正在参与的研究方向为基于可重构智能表面的现代通信系统，曾涉猎研究方向包括子空间学习以及降维理论，希望有相关兴趣的朋友们一起交流讨论！
+## Research Interests
+
+- Wireless Communication Technologies: Reconfigurable Intelligent Surface, Massive MIMO
+- Signal Processing: Subspace Clustering, Compressive Sensing
 
 ## Publications
 
