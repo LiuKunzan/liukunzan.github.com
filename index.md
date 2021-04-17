@@ -19,7 +19,7 @@
 
 ## Patents
 
-"Communication Enhancement via User-Centric RIS", filed.
+L. Dai, **K. Liu**, Z. Zhang, R. MacKenzie, and M. Hao, "Communication enhancement via user-centric RIS", *US invention patent*, application number PCT/CN2021/077059. 
 
 ## 最新消息
 2021年4月 清华大学“挑战杯”学生课外学术科技作品竞赛一等奖
