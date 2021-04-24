@@ -24,12 +24,10 @@
 ## 最新消息
 2021年4月 清华大学“挑战杯”学生课外学术科技作品竞赛一等奖
 
-2020年12月 学术推进计划优秀口头报告 [[Slides]](/file/RIS_202012.pdf)
+2020年12月 学术推进计划A类优秀项目 [[Slides]](/file/RIS_202012.pdf)
 
-2020年10月 校科技创新奖学金
+2020年10月 清华大学科技创新优秀奖
 
-2020年8月 入选星火计划 [[Slides]](/file/ODforSpark.pdf)
+2020年8月 入选星火计划十四期 [[Slides]](/file/ODforSpark.pdf)
 
-2020年6月 学术推进计划A类评级
-
-2020年5月 获评启航计划优秀成员 [[Slides]](/file/CompressedOD.pdf)
+2020年5月 电子系启航计划三期优秀成员 [[Slides]](/file/CompressedOD.pdf)
