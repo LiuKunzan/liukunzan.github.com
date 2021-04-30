@@ -17,6 +17,14 @@
 
 **K. Liu**, Y. Jiao, Y. Jin, X. Xiang, and Y. Gu, "Dimensionality-Reduced Secure Outlier Detection on Union of Subspaces", in *Proc. IEEE International Conference on Cryptography, Security and Privacy (IEEE CSP'21)*, Zhuhai, China, Jan. 2021. [[IEEE]](https://ieeexplore.ieee.org/document/9357502) [[Paper]](/file/ICCSP/rp020_P014.pdf) [[Slides]](/file/ICCSP/DrSOD.pdf) [[Data]](/file/ICCSP/YaleOutliers3class.mat) [Codes]
 
+### ff
+
+#### ff
+
+##### ff
+
+###### ff
+
 ## Patents
 
 "Communication enhancement via user-centric RIS", *US invention patent*, application number PCT/CN2021/077059. 
