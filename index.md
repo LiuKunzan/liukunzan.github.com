@@ -8,14 +8,14 @@
 刘坤瓒，清华大学电子工程系本科在读，专业为电子信息科学与技术，辅修生物医学工程。
 ## Research Interests
 
-- Wireless Communication Technologies: Reconfigurable Intelligent Surface, Massive MIMO
+- Wireless Communications Technologies: Reconfigurable Intelligent Surface, Massive MIMO
 - Signal Processing: Subspace Clustering, Compressive Sensing
 
 ## Publications
 
-**K. Liu** and Z. Zhang, "On The Energy-Efficiency Fairness of Reconfigurable Intelligent Surface-Aided Cell-Free Network", in *Proc. IEEE 93rd Veh. Technol. Conf. (IEEE VTC'21 Spring)*, Helsinki, Finland, Apr. 2021. [IEEE] [[Paper]](/file/VTC/VTC_EEFairness.pdf) [[Slides]](/file/VTC/VTC_presentation.pdf) [Codes]
+**K. Liu** and Z. Zhang, "On The Energy-Efficiency Fairness of Reconfigurable Intelligent Surface-Aided Cell-Free Network", in *Proc. IEEE 93rd Veh. Technol. Conf. (IEEE VTC'21 Spring)*, Helsinki, Finland, Apr. 2021. [[IEEE]](https://ieeexplore.ieee.org/document/9448858/) [[Paper]](/file/VTC/VTC_EEFairness.pdf) [[Slides]](/file/VTC/VTC_presentation.pdf)
 
-**K. Liu**, Y. Jiao, Y. Jin, X. Xiang, and Y. Gu, "Dimensionality-Reduced Secure Outlier Detection on Union of Subspaces", in *Proc. IEEE International Conference on Cryptography, Security and Privacy (IEEE CSP'21)*, Zhuhai, China, Jan. 2021. [[IEEE]](https://ieeexplore.ieee.org/document/9357502) [[Paper]](/file/ICCSP/rp020_P014.pdf) [[Slides]](/file/ICCSP/DrSOD.pdf) [[Data]](/file/ICCSP/YaleOutliers3class.mat) [Codes]
+**K. Liu**, Y. Jiao, Y. Jin, X. Xiang, and Y. Gu, "Dimensionality-Reduced Secure Outlier Detection on Union of Subspaces", in *Proc. IEEE International Conference on Cryptography, Security and Privacy (IEEE CSP'21)*, Zhuhai, China, Jan. 2021. [[IEEE]](https://ieeexplore.ieee.org/document/9357502) [[Paper]](/file/ICCSP/rp020_P014.pdf) [[Slides]](/file/ICCSP/DrSOD.pdf) [[Data]](/file/ICCSP/YaleOutliers3class.mat)
 
 #### Under Review
 
