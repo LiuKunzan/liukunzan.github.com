@@ -19,7 +19,7 @@
 
 #### Under Review
 
-**K. Liu**, Z. Zhang, L. Dai, and L. Hanzo, "Compact User-Side Reconfigurable Intelligent Surfaces for Uplink Transmission," *arXiv preprint arXiv:2107.08698*, Jul. 2021. [[arXiv]](https://arxiv.org/abs/2107.08698) [[Paper]](/file/TCOM/US-RIS.pdf)
+**K. Liu**, Z. Zhang, L. Dai, and L. Hanzo, "Compact User-Side Reconfigurable Intelligent Surfaces for Uplink Transmission," *arXiv preprint arXiv:2107.08698*, Jul. 2021. [[arXiv]](https://arxiv.org/abs/2107.08698) [[Paper]](/file/TCOM/US-RIS.pdf) [[Code]](/file/TCOM/code_USRIS.zip)
 
 **K. Liu**, Z. Zhang, and L. Dai, "User-Centric RIS: Realizing Large-Scale Array at User Side".
 
