@@ -13,19 +13,23 @@
 
 ## Publications
 
+**K. Liu**, Z. Zhang, and L. Dai, "User-Centric RIS: Realizing Large-Scale Array at User Side," in *Proc. IEEE Global Commun. Conf. (IEEE GLOBECOM’21),* Madrid, Spain, Dec. 2021. [IEEE] [Paper] [Slides]
+
 **K. Liu** and Z. Zhang, "On The Energy-Efficiency Fairness of Reconfigurable Intelligent Surface-Aided Cell-Free Network," in *Proc. IEEE 93rd Veh. Technol. Conf. (IEEE VTC'21 Spring)*, Helsinki, Finland, Apr. 2021. [[IEEE]](https://ieeexplore.ieee.org/document/9448858/) [[Paper]](/file/VTC/VTC_EEFairness.pdf) [[Slides]](/file/VTC/VTC_presentation.pdf)
 
 **K. Liu**, Y. Jiao, Y. Jin, X. Xiang, and Y. Gu, "Dimensionality-Reduced Secure Outlier Detection on Union of Subspaces," in *Proc. IEEE International Conference on Cryptography, Security and Privacy (IEEE CSP'21)*, Zhuhai, China, Jan. 2021. [[IEEE]](https://ieeexplore.ieee.org/document/9357502) [[Paper]](/file/ICCSP/rp020_P014.pdf) [[Slides]](/file/ICCSP/DrSOD.pdf) [[Data]](/file/ICCSP/YaleOutliers3class.mat)
 
 #### Under Review
 
-**K. Liu**, Z. Zhang, L. Dai, and L. Hanzo, "Compact User-Side Reconfigurable Intelligent Surfaces for Uplink Transmission," *arXiv preprint arXiv:2107.08698*, Jul. 2021. [[arXiv]](https://arxiv.org/abs/2107.08698) [[Paper]](/file/TCOM/US-RIS.pdf) [[Code]](/file/TCOM/code_USRIS.zip)
+**K. Liu**, Z. Zhang, and L. Dai, "Active Reconfigurable Intelligent Surface: Fully-Connected or Sub-Connected?".
 
-**K. Liu**, Z. Zhang, and L. Dai, "User-Centric RIS: Realizing Large-Scale Array at User Side".
+**K. Liu**, Z. Zhang, L. Dai, and L. Hanzo, "Compact User-Side Reconfigurable Intelligent Surfaces for Uplink Transmission," *arXiv preprint arXiv:2107.08698*, Jul. 2021. [[arXiv]](https://arxiv.org/abs/2107.08698) [[Paper]](/file/TCOM/US-RIS.pdf) [[Code]](/file/TCOM/code_USRIS.zip)
 
 ## Patents
 
-L. Dai, **K. Liu**, Z. Zhang, R. MacKenzie, and M. Hao, "Communication enhancement via user-centric RIS", *US invention patent*, application number PCT/CN2021/077059. 
+"能效公平无蜂窝网络的资源分配及预编码方法与装置", 申请号 PCT/CN2021/112812.
+
+"Communication enhancement via user-centric RIS", application number PCT/CN2021/077059. 
 
 ## 最新消息
 2021年5月 电子系科创年会最佳墙报展示
