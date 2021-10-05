@@ -21,9 +21,9 @@
 
 #### Under Review
 
-**K. Liu**, Z. Zhang, L. Dai, S. Xu, and F. Yang, "Active Reconfigurable Intelligent Surface: Fully-Connected or Sub-Connected?," submitted to *IEEE Commun. Lett. (major revision)*.
+**K. Liu**, Z. Zhang, L. Dai, S. Xu, and F. Yang, "Active Reconfigurable Intelligent Surface: Fully-Connected or Sub-Connected?," submitted to *IEEE Commun. Lett. (minor revision)*.
 
-**K. Liu**, Z. Zhang, L. Dai, and L. Hanzo, "Compact User-Side Reconfigurable Intelligent Surfaces for Uplink Transmission," submitted to *IEEE Trans. Commun. (major revision)*. [[arXiv]](https://arxiv.org/abs/2107.08698) [[Paper]](/file/TCOM/US-RIS.pdf) [[Code]](/file/TCOM/code_USRIS.zip)
+**K. Liu**, Z. Zhang, L. Dai, and L. Hanzo, "Compact User-Specific Reconfigurable Intelligent Surfaces for Uplink Transmission," submitted to *IEEE Trans. Commun. (major revision)*. [[arXiv]](https://arxiv.org/abs/2107.08698) [[Paper]](/file/TCOM/US-RIS.pdf) [[Code]](/file/TCOM/code_USRIS.zip)
 
 ## Patents
 
