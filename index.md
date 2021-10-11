@@ -1,17 +1,18 @@
-## 欢迎来到我的个人主页
-在这里，我将会更新我的最新动态，
-通过<lkz18@mails.tsinghua.edu.cn>联系我吧！
+## Welcome to Kunzan Liu's homepage
+Contact: <lkz18@mails.tsinghua.edu.cn>
 
 [Google Scholar](https://scholar.google.com/citations?user=wzifqNkAAAAJ&hl=en&oi=ao)
 
-## 个人信息
-刘坤瓒，清华大学电子工程系本科在读，专业为电子信息科学与技术，辅修生物医学工程。
+## Biography
+Kunzan Liu has been pursuing the B.E. degree with the Department of Electronic Engineering, Tsinghua University, Beijing, China, since 2018. He joined the Tsinghua National Laboratory for Information Science and Technology (TNList) as a research student in 2020. His research interests include reconfigurable intelligent surface (RIS) and massive MIMO.
 ## Research Interests
 
 - Wireless Communications Technologies: Reconfigurable Intelligent Surface, Massive MIMO
 - Signal Processing: Subspace Clustering, Compressive Sensing
 
 ## Publications
+
+**K. Liu**, Z. Zhang, L. Dai, S. Xu, and F. Yang, "Active Reconfigurable Intelligent Surface: Fully-Connected or Sub-Connected?," accepted by *IEEE Commun. Lett.* [IEEE] [Paper] [Code]
 
 **K. Liu**, Z. Zhang, and L. Dai, "User-Side RIS: Realizing Large-Scale Array at User Side," in *Proc. IEEE Global Commun. Conf. (IEEE GLOBECOM’21),* Madrid, Spain, Dec. 2021. [IEEE] [Paper] [Slides]
 
@@ -20,8 +21,6 @@
 **K. Liu**, Y. Jiao, Y. Jin, X. Xiang, and Y. Gu, "Dimensionality-Reduced Secure Outlier Detection on Union of Subspaces," in *Proc. IEEE International Conference on Cryptography, Security and Privacy (IEEE CSP'21)*, Zhuhai, China, Jan. 2021. [[IEEE]](https://ieeexplore.ieee.org/document/9357502) [[Paper]](/file/ICCSP/rp020_P014.pdf) [[Slides]](/file/ICCSP/DrSOD.pdf) [[Data]](/file/ICCSP/YaleOutliers3class.mat)
 
 #### Under Review
-
-**K. Liu**, Z. Zhang, L. Dai, S. Xu, and F. Yang, "Active Reconfigurable Intelligent Surface: Fully-Connected or Sub-Connected?," submitted to *IEEE Commun. Lett. (minor revision)*.
 
 **K. Liu**, Z. Zhang, L. Dai, and L. Hanzo, "Compact User-Specific Reconfigurable Intelligent Surfaces for Uplink Transmission," submitted to *IEEE Trans. Commun. (major revision)*. [[arXiv]](https://arxiv.org/abs/2107.08698) [[Paper]](/file/TCOM/US-RIS.pdf) [[Code]](/file/TCOM/code_USRIS.zip)
 
