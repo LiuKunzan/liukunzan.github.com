@@ -14,7 +14,7 @@ Kunzan Liu has been pursuing the B.E. degree with the Department of Electronic E
 
 **K. Liu**, Z. Zhang, L. Dai, S. Xu, and F. Yang, "Active Reconfigurable Intelligent Surface: Fully-Connected or Sub-Connected?," accepted by *IEEE Commun. Lett.* [[IEEE]](https://ieeexplore.ieee.org/document/9568854) [[Paper]](/file/CL/FINAL VERSION.pdf) [Code]
 
-**K. Liu**, Z. Zhang, and L. Dai, "User-Side RIS: Realizing Large-Scale Array at User Side," in *Proc. IEEE Global Commun. Conf. (IEEE GLOBECOM’21),* Madrid, Spain, Dec. 2021. [IEEE] [Paper] [Slides]
+**K. Liu**, Z. Zhang, and L. Dai, "User-Side RIS: Realizing Large-Scale Array at User Side," in *Proc. IEEE Global Commun. Conf. (IEEE GLOBECOM’21),* Madrid, Spain, Dec. 2021. [IEEE] [Paper] [[Slides]](/file/GLOBECOM/1006_GlobeCom.pdf)
 
 **K. Liu** and Z. Zhang, "On The Energy-Efficiency Fairness of Reconfigurable Intelligent Surface-Aided Cell-Free Network," in *Proc. IEEE 93rd Veh. Technol. Conf. (IEEE VTC'21 Spring)*, Helsinki, Finland, Apr. 2021. [[IEEE]](https://ieeexplore.ieee.org/document/9448858/) [[Paper]](/file/VTC/VTC_EEFairness.pdf) [[Slides]](/file/VTC/VTC_presentation.pdf)
 
