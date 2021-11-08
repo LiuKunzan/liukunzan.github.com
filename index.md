@@ -1,7 +1,7 @@
 ## Welcome to Kunzan Liu's homepage
-Contact: <lkz18@mails.tsinghua.edu.cn>
+Contact: <lkz18@mails.tsinghua.edu.cn> <kunzanliu@gmail.com>
 
-[Google Scholar](https://scholar.google.com/citations?user=wzifqNkAAAAJ&hl=en&oi=ao)
+[Google Scholar](https://scholar.google.com/citations?user=wzifqNkAAAAJ&hl=en&oi=ao) [ResearchGate](https://www.researchgate.net/profile/Kunzan-Liu)
 
 ## Biography
 Kunzan Liu has been pursuing the B.E. degree with the Department of Electronic Engineering, Tsinghua University, Beijing, China, since 2018. He joined the Tsinghua National Laboratory for Information Science and Technology (TNList) as a research student in 2020. His research interests include reconfigurable intelligent surface (RIS) and massive MIMO.
