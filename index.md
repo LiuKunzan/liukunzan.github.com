@@ -14,7 +14,7 @@ Kunzan Liu has been pursuing the B.E. degree with the Department of Electronic E
 
 **K. Liu**, Z. Zhang, L. Dai, and L. Hanzo, "Compact User-Specific Reconfigurable Intelligent Surfaces for Uplink Transmission," *IEEE Trans. Commun. (early access article)*, 2021. [[IEEE]](https://ieeexplore.ieee.org/document/9598898) [[arXiv]](https://arxiv.org/abs/2107.08698) [[Paper]](/file/TCOM/US-RIS.pdf) [[Code]](/file/TCOM/code_USRIS.zip)
 
-**K. Liu**, Z. Zhang, L. Dai, S. Xu, and F. Yang, "Active Reconfigurable Intelligent Surface: Fully-Connected or Sub-Connected?," *IEEE Commun. Lett. (early access article)*, 2021. [[IEEE]](https://ieeexplore.ieee.org/document/9568854) [[Paper]](/file/CL/FINAL VERSION.pdf) [Code]
+**K. Liu**, Z. Zhang, L. Dai, S. Xu, and F. Yang, "Active Reconfigurable Intelligent Surface: Fully-Connected or Sub-Connected?," *IEEE Commun. Lett.*, vol. 26, no. 1, pp. 167-171, Jan. 2022. [[IEEE]](https://ieeexplore.ieee.org/document/9568854) [[Paper]](/file/CL/Active_Reconfigurable_Intelligent_Surface_Fully-Connected_or_Sub-Connected.pdf) [[Code]](/file/CL/code_SubRIS.zip)
 
 **K. Liu**, Z. Zhang, and L. Dai, "User-Side RIS: Realizing Large-Scale Array at User Side," in *Proc. IEEE Global Commun. Conf. (IEEE GLOBECOM’21),* Madrid, Spain, Dec. 2021. [IEEE] [Paper] [[Slides]](/file/GLOBECOM/1006_GlobeCom.pdf)
 
@@ -24,11 +24,11 @@ Kunzan Liu has been pursuing the B.E. degree with the Department of Electronic E
 
 ## Patents
 
-"能效公平无蜂窝网络的资源分配及预编码方法与装置", 申请号 PCT/CN2021/112812.
+一种低功耗的无线通信系统硬件架构及设计方法
 
-"Communication enhancement via user-centric RIS", application number PCT/CN2021/077059. 
+能效公平无蜂窝网络的资源分配及预编码方法与装置
 
-1111
+Communication enhancement via user-centric RIS
 
 ## 最新消息
 2021年5月 电子系科创年会最佳墙报展示
