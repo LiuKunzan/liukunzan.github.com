@@ -12,7 +12,7 @@ Kunzan Liu has been pursuing the B.E. degree with the Department of Electronic E
 
 ## Publications
 
-**K. Liu**, Z. Zhang, L. Dai, and L. Hanzo, "Compact User-Specific Reconfigurable Intelligent Surfaces for Uplink Transmission," *IEEE Trans. Commun. (early access article)*, 2021. [[IEEE]](https://ieeexplore.ieee.org/document/9598898) [[arXiv]](https://arxiv.org/abs/2107.08698) [[Paper]](/file/TCOM/US-RIS.pdf) [[Code]](/file/TCOM/code_USRIS.zip)
+**K. Liu**, Z. Zhang, L. Dai, and L. Hanzo, "Compact User-Specific Reconfigurable Intelligent Surfaces for Uplink Transmission," *IEEE Trans. Commun.*, vol. 70, no. 1, pp. 680-692, Jan. 2022. [[IEEE]](https://ieeexplore.ieee.org/document/9598898) [[arXiv]](https://arxiv.org/abs/2107.08698) [[Paper]](/file/TCOM/US-RIS.pdf) [[Code]](/file/TCOM/code_USRIS.zip)
 
 **K. Liu**, Z. Zhang, L. Dai, S. Xu, and F. Yang, "Active Reconfigurable Intelligent Surface: Fully-Connected or Sub-Connected?," *IEEE Commun. Lett.*, vol. 26, no. 1, pp. 167-171, Jan. 2022. [[IEEE]](https://ieeexplore.ieee.org/document/9568854) [[Paper]](/file/CL/Active_Reconfigurable_Intelligent_Surface_Fully-Connected_or_Sub-Connected.pdf) [[Code]](/file/CL/code_SubRIS.zip)
 
