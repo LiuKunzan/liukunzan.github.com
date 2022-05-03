@@ -1,7 +1,9 @@
 ## Welcome to Kunzan Liu's homepage
 Contact: <lkz18@mails.tsinghua.edu.cn> <kunzanliu@gmail.com>
 
-[Google Scholar](https://scholar.google.com/citations?user=wzifqNkAAAAJ&hl=en&oi=ao) [ResearchGate](https://www.researchgate.net/profile/Kunzan-Liu)
+[Google Scholar](https://scholar.google.com/citations?user=wzifqNkAAAAJ&hl=en&oi=ao)
+
+[ResearchGate](https://www.researchgate.net/profile/Kunzan-Liu)
 
 ## Biography
 Kunzan Liu has been pursuing the B.E. degree with the Department of Electronic Engineering, Tsinghua University, Beijing, China, since 2018. He joined the Tsinghua National Laboratory for Information Science and Technology (TNList) as a research student in 2020. His research interests include reconfigurable intelligent surface (RIS) and massive MIMO.
@@ -11,6 +13,8 @@ Kunzan Liu has been pursuing the B.E. degree with the Department of Electronic E
 - Signal Processing: Subspace Clustering, Compressive Sensing
 
 ## Publications
+
+J. Zhu, **K. Liu**, Z. Wan, L. Dai, T. J. Cui, and H. V. Poor, "Sensing RISs: Enabling Dimension-Independent CSI Acquisition for Beamforming," *arXiv preprint arXiv:2204.13505,* Apr. 2022. [[arXiv]](https://arxiv.org/abs/2204.13505)
 
 **K. Liu**, Z. Zhang, L. Dai, and L. Hanzo, "Compact User-Specific Reconfigurable Intelligent Surfaces for Uplink Transmission," *IEEE Trans. Commun.*, vol. 70, no. 1, pp. 680-692, Jan. 2022. [[IEEE]](https://ieeexplore.ieee.org/document/9598898) [[arXiv]](https://arxiv.org/abs/2107.08698) [[Paper]](/file/TCOM/US-RIS.pdf) [[Code]](/file/TCOM/code_USRIS.zip)
 
