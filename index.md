@@ -1,16 +1,15 @@
-## Welcome to Kunzan Liu's homepage
-Contact: <lkz18@mails.tsinghua.edu.cn> <kunzanliu@gmail.com>
+## Welcome to Kunzan Liu's Homepage
+Contact: <kunzan@mit.edu>
 
 [Google Scholar](https://scholar.google.com/citations?user=wzifqNkAAAAJ&hl=en&oi=ao)
 
 [ResearchGate](https://www.researchgate.net/profile/Kunzan-Liu)
 
 ## Biography
-Kunzan Liu has been pursuing the B.E. degree with the Department of Electronic Engineering, Tsinghua University, Beijing, China, since 2018. He joined the Tsinghua National Laboratory for Information Science and Technology (TNList) as a research student in 2020. His research interests include reconfigurable intelligent surface (RIS) and massive MIMO.
+Kunzan Liu received the B.E. degree in electronic engineering from Tsinghua University, Beijing, China, in 2022. He is currently persuing the Ph.D. degree with the Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, MA, USA.
 ## Research Interests
 
-- Wireless Communications Technologies: Reconfigurable Intelligent Surface, Massive MIMO
-- Signal Processing: Subspace Clustering, Compressive Sensing
+- 
 
 ## Publications
 
@@ -25,26 +24,3 @@ J. Zhu, **K. Liu**, Z. Wan, L. Dai, T. J. Cui, and H. V. Poor, "Sensing RISs: En
 **K. Liu** and Z. Zhang, "On The Energy-Efficiency Fairness of Reconfigurable Intelligent Surface-Aided Cell-Free Network," in *Proc. IEEE 93rd Veh. Technol. Conf. (IEEE VTC'21 Spring)*, Helsinki, Finland, Apr. 2021. [[IEEE]](https://ieeexplore.ieee.org/document/9448858/) [[Paper]](/file/VTC/VTC_EEFairness.pdf) [[Slides]](/file/VTC/VTC_presentation.pdf)
 
 **K. Liu**, Y. Jiao, Y. Jin, X. Xiang, and Y. Gu, "Dimensionality-Reduced Secure Outlier Detection on Union of Subspaces," in *Proc. IEEE International Conference on Cryptography, Security and Privacy (IEEE CSP'21)*, Zhuhai, China, Jan. 2021. [[IEEE]](https://ieeexplore.ieee.org/document/9357502) [[Paper]](/file/ICCSP/rp020_P014.pdf) [[Slides]](/file/ICCSP/DrSOD.pdf) [[Data]](/file/ICCSP/YaleOutliers3class.mat)
-
-## Patents
-
-一种低功耗的无线通信系统硬件架构及设计方法
-
-能效公平无蜂窝网络的资源分配及预编码方法与装置
-
-Communication enhancement via user-centric RIS
-
-## 最新消息
-2021年5月 电子系科创年会最佳墙报展示
-
-2021年5月 第11届“挑战杯”首都大学生课外学术科技作品竞赛特等奖
-
-2021年4月 清华大学第39届“挑战杯”学生课外学术科技作品竞赛一等奖
-
-2020年12月 学术推进计划A类优秀项目 [[Slides]](/file/RIS_202012.pdf)
-
-2020年10月 清华大学科技创新优秀奖
-
-2020年8月 入选星火计划十四期 [[Slides]](/file/ODforSpark.pdf)
-
-2020年5月 电子系启航计划三期优秀成员 [[Slides]](/file/CompressedOD.pdf)
