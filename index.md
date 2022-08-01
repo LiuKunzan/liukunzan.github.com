@@ -6,7 +6,7 @@ Contact: <kunzan@mit.edu>
 [ResearchGate](https://www.researchgate.net/profile/Kunzan-Liu)
 
 ## Biography
-Kunzan Liu received the B.E. degree in electronic engineering from Tsinghua University, Beijing, China, in 2022. He is currently persuing the Ph.D. degree with the Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, MA, USA.
+Kunzan Liu received the B.E. degree in electronic engineering from Tsinghua University, Beijing, China, in 2022. He is currently pursuing the Ph.D. degree with the Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, MA, USA.
 ## Research Interests
 
 - 
