@@ -1,15 +1,14 @@
 ## Welcome to Kunzan Liu's Homepage
 Contact: <kunzan@mit.edu>
 
-[Google Scholar](https://scholar.google.com/citations?user=wzifqNkAAAAJ&hl=en&oi=ao)
-
-[ResearchGate](https://www.researchgate.net/profile/Kunzan-Liu)
+[[Google Scholar]](https://scholar.google.com/citations?user=wzifqNkAAAAJ&hl=en&oi=ao) [[ResearchGate]](https://www.researchgate.net/profile/Kunzan-Liu) [[Computational Biophotonics Laboratory]](https://www.rle.mit.edu/yougroup/)
 
 ## Biography
 Kunzan Liu received the B.E. degree in electronic engineering from Tsinghua University, Beijing, China, in 2022. He is currently pursuing the Ph.D. degree with the Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, MA, USA.
 ## Research Interests
 
-- 
+- label-free multiphoton microscopy
+- computational imaging
 
 ## Publications
 
